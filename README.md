@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishi Shrivas</h1>
+<h1 align="center"> Rishi Shrivas</h1>
 <h3 align="center">Music🎧  Coding💻  Cars🏎</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/38/30/4d/38304daec650bb74c40c71d65237b734.gif">
 
