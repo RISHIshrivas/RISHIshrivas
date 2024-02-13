@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Unsupervised ML, AI**
 
-- 💬 Ask me about **Machine Learning, MySQL, Automobiles**
+- 💬 Ask me about **Machine Learning, MySQL, Automobiles,Python, Data Visualisation**
 
 - 📫 How to reach me **Instagram,Gmail**
 
