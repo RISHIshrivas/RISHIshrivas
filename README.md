@@ -140,7 +140,7 @@
 
 # ⚡ Quote
 
-> *"Code. Learn. Build. Improve. Repeat."*
+> *"I don't chase trends. I build what others struggle to understand"*
 
 ---
 
